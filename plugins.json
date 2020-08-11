@@ -1,6 +1,11 @@
 {
 	"plugin": [
 		{
+			"name": "my name is parul",
+			"description": "this is for testing",
+			"tag": []
+		},
+		{
 			"name": "TinyMCE",
 			"id": "tinymce",
 			"description": "Edit rich text, straight from Mavo!",
