@@ -1,11 +1,6 @@
 {
 	"plugin": [
 		{
-			"name": "my name is parul",
-			"description": "this is for testing",
-			"tag": []
-		},
-		{
 			"name": "TinyMCE",
 			"id": "tinymce",
 			"description": "Edit rich text, straight from Mavo!",
@@ -13,6 +8,11 @@
 				"Editing"
 			],
 			"author": "leaverou"
+		},
+		{
+			"name": "helllo",
+			"description": "again, for testing purposes",
+			"tag": []
 		},
 		{
 			"id": "markdown",
